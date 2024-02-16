@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eljoker1940
-- 👀 I’m interested in : HMTL5 , CSS3, JS
-- 🌱 I’m currently learning : HMTL5 , CSS3, JS
+- 👀 I’m interested in : HMTL5 , CSS3,PHP, JS
+- 🌱 I’m currently learning : HMTL5 , CSS3,PHP, JS
 - 💞️ I’m looking to collaborate on : ALL PROJECTS. 
 - 📫 How to reach me ...
 
